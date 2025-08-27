@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>My Daily Declarations</title>
+  <meta name="theme-color" content="#6d28d9" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap');
+    body { font-family: 'Fredoka', sans-serif; }
+    .declaration-card { animation: slideIn 0.5s ease-out forwards; opacity: 0; transform: translateY(20px); }
+    .declaration-card:nth-child(1){animation-delay:.05s}
+    .declaration-card:nth-child(2){animation-delay:.10s}
+    .declaration-card:nth-child(3){animation-delay:.15s}
+    .declaration-card:nth-child(4){animation-delay:.20s}
+    .declaration-card:nth-child(5){animation-delay:.25s}
+    @keyframes slideIn { to { opacity: 1; transform: translateY(0); } }
+    .star { animation: twinkle 2s infinite; }
+    @keyframes twinkle { 0%,100%{opacity:1} 50%{opacity:.3} }
+    .sun-ray { animation: rotate 10s linear infinite; }
+    @keyframes rotate { from { transform: rotate(0) } to { transform: rotate(360deg) } }
+  </style>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-blue-200 via-purple-200 to-pink-200">
+  <div class="container mx-auto px-4 py-8 max-w-4xl">
+    <!-- Header -->
+    <div class="text-center mb-8">
+      <h1 class="text-4xl md:text-5xl font-bold text-purple-800 mb-4">My Daily Declarations</h1>
+      <p class="text-lg text-purple-600 font-medium">Start and end your day with God's promises! 🙏</p>
+    </div>
+
+    <!-- Controls -->
+    <div class="flex flex-col sm:flex-row gap-4 justify-center mb-6">
+      <button id="morningBtn" class="bg-yellow-400 hover:bg-yellow-500 text-yellow-900 font-bold py-4 px-8 rounded-full text-xl shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center justify-center gap-3">
+        <div class="relative">
+          <div class="w-8 h-8 bg-yellow-600 rounded-full"></div>
+          <div class="absolute inset-0 sun-ray">
+            <div class="w-1 h-3 bg-yellow-600 absolute top-0 left-1/2 -translate-x-1/2 -translate-y-4"></div>
+            <div class="w-1 h-3 bg-yellow-600 absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-4"></div>
+            <div class="w-3 h-1 bg-yellow-600 absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4"></div>
+            <div class="w-3 h-1 bg-yellow-600 absolute right-0 top-1/2 -translate-y-1/2 translate-x-4"></div>
+          </div>
+        </div>
+        Morning Declarations
+      </button>
+
+      <button id="nightBtn" class="bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-4 px-8 rounded-full text-xl shadow-lg transform hover:scale-105 transition-all duration-200 flex items-center justify-center gap-3">
+        <div class="relative">
+          <div class="w-8 h-8 bg-indigo-700 rounded-full"></div>
+          <div class="star w-2 h-2 bg-yellow-300 rounded-full absolute -top-1 -right-1"></div>
+          <div class="star w-1 h-1 bg-yellow-300 rounded-full absolute -top-2 left-1"></div>
+          <div class="star w-1 h-1 bg-yellow-300 rounded-full absolute top-1 -right-2"></div>
+        </div>
+        Bedtime Declarations
+      </button>
+    </div>
+
+    <!-- Share/Install -->
+    <div class="flex items-center justify-center gap-3 mb-8">
+      <button id="copyBtn" class="text-sm bg-white/80 hover:bg-white px-3 py-2 rounded-lg shadow">Copy Today’s Declarations</button>
+      <button id="installBtn" class="text-sm bg-white/80 hover:bg-white px-3 py-2 rounded-lg shadow hidden">Install App</button>
+    </div>
+
+    <!-- Declarations -->
+    <div id="declarationsContainer" class="space-y-4"></div>
+
+    <!-- Footer -->
+    <div class="text-center mt-12">
+      <p class="text-purple-600 font-medium">Remember: You are loved, chosen, and blessed! ✨</p>
+    </div>
+  </div>
+
+  <script>
+    /***** CONFIG *****/
+    // How many items to show per day:
+    const DECLARATIONS_PER_DAY = 20; // change to any number
+    // Where to fetch the big list from (same folder as index.html):
+    const SOURCE_URL = "./declarations.json";
+
+    // Fallback data if JSON can't be loaded (keep small here; put your big list in declarations.json)
+    const FALLBACK = {
+      morning: [
+        { text: "I am fearfully and wonderfully made by God!", verse: "Psalm 139:14", emoji: "🌟" },
+        { text: "God has plans to give me hope and a future!", verse: "Jeremiah 29:11", emoji: "🌈" },
+        { text: "I can do all things through Christ who strengthens me!", verse: "Philippians 4:13", emoji: "💪" },
+        { text: "God's love for me never fails!", verse: "1 Corinthians 13:8", emoji: "❤️" },
+        { text: "I am more than a conqueror through Jesus!", verse: "Romans 8:37", emoji: "👑" }
+      ],
+      night: [
+        { text: "God watches over me while I sleep!", verse: "Psalm 121:3-4", emoji: "🛡️" },
+        { text: "I can sleep in peace because God protects me!", verse: "Psalm 4:8", emoji: "😴" },
+        { text: "God's angels are camping around me!", verse: "Psalm 34:7", emoji: "👼" },
+        { text: "Tomorrow will be filled with God's mercies!", verse: "Lamentations 3:22-23", emoji: "🌅" },
+        { text: "I am safe in God's loving hands!", verse: "John 10:28-29", emoji: "🤲" }
+      ]
+    };
+
+    /***** UTILS *****/
+    // Simple deterministic PRNG so the same date -> same shuffle for that day
+    function mulberry32(seed) {
+      return function() {
+        let t = seed += 0x6D2B79F5;
+        t = Math.imul(t ^ t >>> 15, t | 1);
+        t ^= t + Math.imul(t ^ t >>> 7, t | 61);
+        return ((t ^ t >>> 14) >>> 0) / 4294967296;
+      };
+    }
+
+    function seededShuffle(array, seed) {
+      const rng = mulberry32(seed);
+      const a = array.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(rng() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    function dateSeed(suffix="") {
+      const d = new Date();
+      const y = d.getFullYear();
+      const m = (d.getMonth()+1).toString().padStart(2,'0');
+      const day = d.getDate().toString().padStart(2,'0');
+      // unique per day & per timeOfDay:
+      const str = `${y}-${m}-${day}-${suffix}`;
+      // hash to 32-bit int:
+      let h = 2166136261;
+      for (let i=0;i<str.length;i++){
+        h ^= str.charCodeAt(i);
+        h = Math.imul(h, 16777619);
+      }
+      return h >>> 0;
+    }
+
+    function pickDailySet(fullList, count, timeKey) {
+      if (!Array.isArray(fullList) || fullList.length === 0) return [];
+      const seed = dateSeed(timeKey);
+      const shuffled = seededShuffle(fullList, seed);
+      return shuffled.slice(0, Math.min(count, fullList.length));
+    }
+
+    /***** RENDER *****/
+    function render(declarations, timeOfDay) {
+      localStorage.setItem('lastTime', timeOfDay);
+      const container = document.getElementById('declarationsContainer');
+      const bgColor = timeOfDay === 'morning' ? 'from-yellow-100 to-orange-100' : 'from-indigo-100 to-purple-100';
+      const borderColor = timeOfDay === 'morning' ? 'border-yellow-300' : 'border-indigo-300';
+
+      container.innerHTML = `
+        <div class="text-center mb-6">
+          <h2 class="text-3xl font-bold ${timeOfDay === 'morning' ? 'text-yellow-800' : 'text-indigo-800'} mb-2">
+            ${timeOfDay === 'morning' ? 'Good Morning!' : 'Good Night!'} ${timeOfDay === 'morning' ? '☀️' : '🌙'}
+          </h2>
+          <p class="text-lg ${timeOfDay === 'morning' ? 'text-yellow-700' : 'text-indigo-700'} font-medium">
+            ${timeOfDay === 'morning' ? 'Speak these truths over your day!' : 'Rest in these promises tonight!'}
+          </p>
+        </div>
+      `;
+
+      declarations.forEach((d) => {
+        const card = document.createElement('div');
+        card.className = `declaration-card bg-gradient-to-r ${bgColor} border-2 ${borderColor} rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300`;
+        card.innerHTML = `
+          <div class="flex items-start gap-4">
+            <div class="text-4xl flex-shrink-0">${d.emoji || "✨"}</div>
+            <div class="flex-1">
+              <p class="text-xl font-semibold ${timeOfDay === 'morning' ? 'text-yellow-900' : 'text-indigo-900'} mb-3 leading-relaxed">
+                "${d.text}"
+              </p>
+              ${d.verse ? `<p class="text-sm font-medium ${timeOfDay === 'morning' ? 'text-yellow-700' : 'text-indigo-700'} bg-white/60 rounded-full px-3 py-1 inline-block">📖 ${d.verse}</p>` : ""}
+            </div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    /***** APP STATE *****/
+    let DATA = { morning: [], night: [] };
+
+    async function loadData() {
+      try {
+        const res = await fetch(SOURCE_URL, { cache: "no-store" });
+        if (!res.ok) throw new Error("Failed to load JSON");
+        const json = await res.json();
+        // Expect { morning: [...], night: [...] } but support a flat "all" list too
+        if (Array.isArray(json.morning) && Array.isArray(json.night)) {
+          DATA.morning = json.morning;
+          DATA.night = json.night;
+        } else if (Array.isArray(json.all)) {
+          // if using one big list for both, split by tag or reuse
+          DATA.morning = json.all;
+          DATA.night = json.all;
+        } else {
+          throw new Error("Invalid JSON structure");
+        }
+      } catch (e) {
+        console.warn("Using fallback declarations due to error:", e);
+        DATA = FALLBACK;
+      }
+    }
+
+    function show(timeOfDay) {
+      const pool = timeOfDay === 'morning' ? DATA.morning : DATA.night;
+      const todaySet = pickDailySet(pool, DECLARATIONS_PER_DAY, timeOfDay);
+      render(todaySet, timeOfDay);
+    }
+
+    // Copy visible declarations
+    document.getElementById('copyBtn').addEventListener('click', async () => {
+      const text = [...document.querySelectorAll('#declarationsContainer .declaration-card p:first-child')]
+        .map(p => p.textContent.trim().replace(/^"|"$/g, ''))
+        .join('\n');
+      try { await navigator.clipboard.writeText(text); alert('Copied declarations!'); }
+      catch { alert('Could not copy. Select the text and copy manually.'); }
+    });
+
+    // Install (PWA)
+    let deferredPrompt;
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault(); deferredPrompt = e;
+      const btn = document.getElementById('installBtn');
+      btn.classList.remove('hidden');
+      btn.addEventListener('click', async () => {
+        btn.classList.add('hidden');
+        deferredPrompt.prompt(); await deferredPrompt.userChoice; deferredPrompt = null;
+      });
+    });
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => navigator.serviceWorker.register('./service-worker.js'));
+    }
+
+    // Init
+    (async function init(){
+      await loadData();
+      const last = localStorage.getItem('lastTime') || 'morning';
+      show(last);
+      document.getElementById('morningBtn').addEventListener('click', () => { show('morning'); localStorage.setItem('lastTime','morning'); });
+      document.getElementById('nightBtn').addEventListener('click', () => { show('night'); localStorage.setItem('lastTime','night'); });
+    })();
+  </script>
+</body>
+</html>
