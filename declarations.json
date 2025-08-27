@@ -1,0 +1,14 @@
+{
+  "morning": [
+    { "text": "I rise clothed in strength and dignity.", "verse": "Proverbs 31:25", "emoji": "🌅" },
+    { "text": "The joy of the Lord is my strength today.", "verse": "Nehemiah 8:10", "emoji": "💪" },
+    { "text": "The Lord orders my steps in wisdom.", "verse": "Psalm 37:23", "emoji": "👣" }
+    /* add hundreds more … */
+  ],
+  "night": [
+    { "text": "I lie down in peace; You alone make me dwell in safety.", "verse": "Psalm 4:8", "emoji": "🌙" },
+    { "text": "Your mercies will meet me in the morning.", "verse": "Lamentations 3:22-23", "emoji": "🕊️" },
+    { "text": "You give rest to Your beloved.", "verse": "Psalm 127:2", "emoji": "😴" }
+    /* add hundreds more … */
+  ]
+}
