@@ -1,14 +1,2146 @@
 {
   "morning": [
-    { "text": "I rise clothed in strength and dignity.", "verse": "Proverbs 31:25", "emoji": "🌅" },
-    { "text": "The joy of the Lord is my strength today.", "verse": "Nehemiah 8:10", "emoji": "💪" },
-    { "text": "The Lord orders my steps in wisdom.", "verse": "Psalm 37:23", "emoji": "👣" }
-    /* add hundreds more … */
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. My heart is steadfast in Him.  And, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "1 Thessalonians 5:16-18, James 1:5",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I receive this by faith and walk in it.  Also, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "Colossians 3:12-14, Nehemiah 8:10",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I am covered by His steadfast love.",
+      "verse": "1 Corinthians 13:4-7, Colossians 3:12-14, John 13:34-35",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I receive this by faith and walk in it.",
+      "verse": "Philippians 4:19",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. By His grace, I will not fear.  Furthermore, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "Psalm 118:24, Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I welcome His presence and obey His leading.  Also, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "Acts 1:8, Psalm 91:1-2, Romans 8:28",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. By His grace, I will not fear.  Furthermore, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "1 Peter 2:9, Philippians 4:19, Psalm 23:1, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. My heart is steadfast in Him.",
+      "verse": "Galatians 2:20",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. I align my thoughts with His truth.  And, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "Colossians 3:15, Psalm 23:1",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. His faithfulness sustains me.",
+      "verse": "1 Thessalonians 5:16-18, Nehemiah 8:10, Psalm 118:24",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love.  Furthermore, today i rise in the strength of the lord, courageous and steadfast, knowing he goes before me and stands beside me.",
+      "verse": "Ephesians 6:10, Philippians 4:19, Psalm 23:1, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I align my thoughts with His truth.  Furthermore, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "Philippians 4:19, Psalm 56:3-4",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. His faithfulness sustains me.  And, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "John 13:34-35, Proverbs 3:5-6",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I align my thoughts with His truth.  And, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "Acts 1:8, Matthew 5:14-16, Psalm 37:23",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. His Word is my anchor and my song.",
+      "verse": "Ephesians 2:10, Jeremiah 29:11, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. By His grace, I will not fear.",
+      "verse": "Colossians 3:12-14",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. I welcome His presence and obey His leading.",
+      "verse": "James 1:5, Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. My heart is steadfast in Him.",
+      "verse": "Colossians 3:12-14",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. His faithfulness sustains me.",
+      "verse": "1 Corinthians 13:4-7, Colossians 3:12-14, John 13:34-35",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I align my thoughts with His truth.",
+      "verse": "Colossians 3:12-14",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude.  Also, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "Nehemiah 8:10, Psalm 118:24, Psalm 91:1-2",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. His faithfulness sustains me.  And, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "Hebrews 11:1, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I welcome His presence and obey His leading.",
+      "verse": "Psalm 23:1, Psalm 5:12, Philippians 4:19",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. His Word is my anchor and my song.",
+      "verse": "Galatians 2:20, 2 Corinthians 5:17, 1 Peter 2:9",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. I am covered by His steadfast love.  And, today i rise in the strength of the lord, courageous and steadfast, knowing he goes before me and stands beside me.",
+      "verse": "Hebrews 11:1, Psalm 27:1",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory.  Furthermore, today i rise in the strength of the lord, courageous and steadfast, knowing he goes before me and stands beside me.",
+      "verse": "1 Peter 2:9, 2 Corinthians 5:17, Galatians 2:20, Joshua 1:9",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. His Word is my anchor and my song.  And, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "John 13:34-35, Proverbs 3:5-6",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I receive this by faith and walk in it.  And, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "Acts 1:8, Psalm 118:24, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns.",
+      "verse": "Colossians 3:15, Philippians 4:6-7",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I align my thoughts with His truth.",
+      "verse": "Psalm 118:24",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I am covered by His steadfast love.",
+      "verse": "Nehemiah 8:10",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. His Word is my anchor and my song.  Furthermore, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Thessalonians 5:16-18, James 1:5, Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I welcome His presence and obey His leading.",
+      "verse": "1 Thessalonians 5:16-18",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I receive this by faith and walk in it.",
+      "verse": "Nehemiah 8:10",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. I receive this by faith and walk in it.  Furthermore, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "1 Peter 2:9, 2 Corinthians 5:17, Jeremiah 29:11",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. His faithfulness sustains me.  Also, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "2 Corinthians 5:17, Psalm 23:1, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I align my thoughts with His truth.  Furthermore, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "Colossians 3:12-14, Matthew 5:14-16",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I welcome His presence and obey His leading.  Also, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "1 Corinthians 13:4-7, Proverbs 3:5-6",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. My heart is steadfast in Him.  Also, today i fix my mind on the lord and receive his perfect peace; anxiety has no place where his presence reigns.",
+      "verse": "Colossians 3:15, Ephesians 6:10, Joshua 1:9, Psalm 27:1",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. My heart is steadfast in Him.",
+      "verse": "Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. By His grace, I will not fear.  And, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "Galatians 2:20, Psalm 118:24",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. I align my thoughts with His truth.",
+      "verse": "James 1:5, Proverbs 3:5-6",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. I welcome His presence and obey His leading.",
+      "verse": "Psalm 56:3-4, Proverbs 3:5-6, Hebrews 11:1",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. By His grace, I will not fear.",
+      "verse": "Psalm 118:24",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. My heart is steadfast in Him.",
+      "verse": "Philippians 4:6-7",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. His faithfulness sustains me.",
+      "verse": "Ephesians 6:10",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. His Word is my anchor and my song.",
+      "verse": "Psalm 23:1",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. His faithfulness sustains me.",
+      "verse": "Ephesians 2:10, Romans 8:28, Jeremiah 29:11",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. His faithfulness sustains me.  Also, today i fix my mind on the lord and receive his perfect peace; anxiety has no place where his presence reigns.",
+      "verse": "Colossians 3:15, Isaiah 26:3, Philippians 4:6-7",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. I welcome His presence and obey His leading.",
+      "verse": "1 Peter 2:9, 2 Corinthians 5:17, Galatians 2:20",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I am covered by His steadfast love.  Furthermore, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "Nehemiah 8:10, Proverbs 3:5-6, Psalm 118:24",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. I am covered by His steadfast love.",
+      "verse": "1 Peter 2:9",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I align my thoughts with His truth.",
+      "verse": "Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. By His grace, I will not fear.",
+      "verse": "Romans 8:28, Jeremiah 29:11, Ephesians 2:10",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. My heart is steadfast in Him.  Furthermore, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "Acts 1:8, Psalm 23:1",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. I receive this by faith and walk in it.",
+      "verse": "Philippians 4:6-7, Isaiah 26:3",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory.",
+      "verse": "1 Peter 2:9, Galatians 2:20",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I receive this by faith and walk in it.  And, today i fix my mind on the lord and receive his perfect peace; anxiety has no place where his presence reigns.",
+      "verse": "1 Corinthians 13:4-7, Colossians 3:12-14, Colossians 3:15, John 13:34-35",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. By His grace, I will not fear.",
+      "verse": "Hebrews 11:1, Proverbs 3:5-6, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. My heart is steadfast in Him.  Also, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "1 Peter 2:9, Matthew 5:14-16, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. By His grace, I will not fear.",
+      "verse": "Ephesians 6:10",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I receive this by faith and walk in it.",
+      "verse": "Matthew 5:14-16",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. His Word is my anchor and my song.  And, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "1 Corinthians 13:4-7, Psalm 56:3-4",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I welcome His presence and obey His leading.",
+      "verse": "John 13:34-35, Colossians 3:12-14, 1 Corinthians 13:4-7",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. I am covered by His steadfast love.",
+      "verse": "Psalm 37:23, Proverbs 3:5-6, James 1:5",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. His Word is my anchor and my song.  Also, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "Philippians 4:19, Psalm 23:1, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. His faithfulness sustains me.  And, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "Ephesians 2:10, Isaiah 26:3, Philippians 4:6-7",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. I receive this by faith and walk in it.",
+      "verse": "Galatians 2:20",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. I receive this by faith and walk in it.",
+      "verse": "Hebrews 11:1, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace.",
+      "verse": "Psalm 91:1-2, Acts 1:8, Matthew 5:14-16",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. His Word is my anchor and my song.  Furthermore, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "Ephesians 2:10, Philippians 4:19, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do.  Also, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "James 1:5, Jeremiah 29:11, Proverbs 3:5-6, Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. I receive this by faith and walk in it.",
+      "verse": "Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. My heart is steadfast in Him.",
+      "verse": "Proverbs 3:5-6, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace.",
+      "verse": "Ephesians 2:10, Jeremiah 29:11",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me.",
+      "verse": "Joshua 1:9, Psalm 27:1",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. His faithfulness sustains me.  And, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "1 Peter 2:9, Hebrews 11:1",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. My heart is steadfast in Him.",
+      "verse": "Acts 1:8",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. My heart is steadfast in Him.  Furthermore, today i rise in the strength of the lord, courageous and steadfast, knowing he goes before me and stands beside me.",
+      "verse": "James 1:5, Proverbs 3:5-6, Psalm 27:1, Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. I align my thoughts with His truth.",
+      "verse": "Proverbs 3:5-6",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. By His grace, I will not fear.",
+      "verse": "Acts 1:8, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. I am covered by His steadfast love.",
+      "verse": "Hebrews 11:1, Proverbs 3:5-6",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I welcome His presence and obey His leading.  Also, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "1 Peter 2:9, Psalm 23:1, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. My heart is steadfast in Him.  Furthermore, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "2 Corinthians 5:17, Hebrews 11:1, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. His Word is my anchor and my song.",
+      "verse": "1 Corinthians 13:4-7, Colossians 3:12-14, John 13:34-35",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I am covered by His steadfast love.",
+      "verse": "Matthew 5:14-16, Acts 1:8, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. My heart is steadfast in Him.",
+      "verse": "Psalm 37:23, James 1:5, Proverbs 3:5-6",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. His faithfulness sustains me.",
+      "verse": "Matthew 5:14-16, Psalm 91:1-2, Acts 1:8",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. By His grace, I will not fear.",
+      "verse": "Philippians 4:19",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. His faithfulness sustains me.  Also, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "1 Corinthians 13:4-7, 1 Peter 2:9, 2 Corinthians 5:17, Galatians 2:20",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. My heart is steadfast in Him.  And, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "Ephesians 6:10, Psalm 27:1, Psalm 5:12",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I welcome His presence and obey His leading.  Furthermore, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "Acts 1:8, James 1:5, Matthew 5:14-16, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. My heart is steadfast in Him.",
+      "verse": "Nehemiah 8:10",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. His Word is my anchor and my song.",
+      "verse": "Acts 1:8, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. His Word is my anchor and my song.  Furthermore, today i rise in the strength of the lord, courageous and steadfast, knowing he goes before me and stands beside me.",
+      "verse": "Jeremiah 29:11, Psalm 27:1, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. I am covered by His steadfast love.",
+      "verse": "Colossians 3:15, Isaiah 26:3, Philippians 4:6-7",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. His Word is my anchor and my song.",
+      "verse": "Hebrews 11:1, Proverbs 3:5-6",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I align my thoughts with His truth.",
+      "verse": "Ephesians 2:10, Jeremiah 29:11, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. I align my thoughts with His truth.",
+      "verse": "Psalm 27:1",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. By His grace, I will not fear.  Also, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "Matthew 5:14-16, Psalm 23:1, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. By His grace, I will not fear.",
+      "verse": "Galatians 2:20",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I welcome His presence and obey His leading.",
+      "verse": "Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I welcome His presence and obey His leading.",
+      "verse": "Acts 1:8, Psalm 91:1-2, Matthew 5:14-16",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. I align my thoughts with His truth.",
+      "verse": "Philippians 4:6-7, Colossians 3:15, Isaiah 26:3",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. His Word is my anchor and my song.  Also, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "James 1:5, Proverbs 3:5-6, Psalm 37:23, Psalm 56:3-4",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. By His grace, I will not fear.",
+      "verse": "Proverbs 3:5-6, James 1:5",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I welcome His presence and obey His leading.  Also, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Thessalonians 5:16-18, Colossians 3:12-14, John 13:34-35",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. I welcome His presence and obey His leading.",
+      "verse": "Isaiah 26:3, Philippians 4:6-7",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. His faithfulness sustains me.  Furthermore, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "Ephesians 2:10, Jeremiah 29:11, Psalm 5:12, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. His Word is my anchor and my song.",
+      "verse": "Colossians 3:15, Philippians 4:6-7, Isaiah 26:3",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. His Word is my anchor and my song.  And, today i fix my mind on the lord and receive his perfect peace; anxiety has no place where his presence reigns.",
+      "verse": "Isaiah 26:3, James 1:5, Proverbs 3:5-6, Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. His faithfulness sustains me.  Furthermore, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "1 Thessalonians 5:16-18, Colossians 3:12-14, Psalm 118:24",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. By His grace, I will not fear.  And, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "2 Corinthians 5:17, Philippians 4:19, Psalm 23:1, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love.",
+      "verse": "Psalm 5:12, Philippians 4:19, Psalm 23:1",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I am covered by His steadfast love.",
+      "verse": "Philippians 4:19, Psalm 23:1",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. His Word is my anchor and my song.",
+      "verse": "Proverbs 3:5-6, James 1:5",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I align my thoughts with His truth.  Also, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "Proverbs 3:5-6, Psalm 23:1",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude.  Also, today i fix my mind on the lord and receive his perfect peace; anxiety has no place where his presence reigns.",
+      "verse": "1 Thessalonians 5:16-18, Isaiah 26:3, Nehemiah 8:10",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I welcome His presence and obey His leading.  Also, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "Galatians 2:20, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. His faithfulness sustains me.",
+      "verse": "James 1:5, Psalm 37:23, Proverbs 3:5-6",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do.  Also, today i fix my mind on the lord and receive his perfect peace; anxiety has no place where his presence reigns.",
+      "verse": "Philippians 4:6-7, Proverbs 3:5-6",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. My heart is steadfast in Him.  And, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "Ephesians 2:10, Isaiah 26:3",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. I receive this by faith and walk in it.",
+      "verse": "Ephesians 6:10",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. By His grace, I will not fear.  Also, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "Philippians 4:19, Psalm 118:24, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I welcome His presence and obey His leading.  And, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "1 Thessalonians 5:16-18, John 13:34-35, Nehemiah 8:10, Psalm 118:24",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude.",
+      "verse": "Psalm 118:24, 1 Thessalonians 5:16-18",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I welcome His presence and obey His leading.  Also, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "Acts 1:8, Hebrews 11:1, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart.  Furthermore, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "1 Corinthians 13:4-7, Colossians 3:12-14, John 13:34-35, Psalm 5:12",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. I receive this by faith and walk in it.  Also, today i rise in the strength of the lord, courageous and steadfast, knowing he goes before me and stands beside me.",
+      "verse": "Joshua 1:9, Psalm 27:1",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I receive this by faith and walk in it.",
+      "verse": "John 13:34-35",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do.",
+      "verse": "Proverbs 3:5-6",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love.  Also, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "Philippians 4:19, Psalm 23:1, Psalm 5:12, Psalm 91:1-2",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I receive this by faith and walk in it.  And, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "Psalm 118:24, Romans 8:28",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I am covered by His steadfast love.",
+      "verse": "Romans 8:28, Jeremiah 29:11",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. I am covered by His steadfast love.  Also, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "1 Peter 2:9, Galatians 2:20, Philippians 4:19",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. By His grace, I will not fear.  Furthermore, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "Matthew 5:14-16, Psalm 56:3-4",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I align my thoughts with His truth.  Furthermore, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "Acts 1:8, Matthew 5:14-16, Psalm 118:24",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I welcome His presence and obey His leading.  Furthermore, today i rise in the strength of the lord, courageous and steadfast, knowing he goes before me and stands beside me.",
+      "verse": "Acts 1:8, Joshua 1:9, Matthew 5:14-16, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I align my thoughts with His truth.  And, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Thessalonians 5:16-18, Ephesians 2:10, Jeremiah 29:11",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I align my thoughts with His truth.  Furthermore, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "Ephesians 2:10, Jeremiah 29:11, Psalm 37:23",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I receive this by faith and walk in it.",
+      "verse": "Jeremiah 29:11, Ephesians 2:10, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. I am covered by His steadfast love.",
+      "verse": "Ephesians 6:10, Joshua 1:9",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. His faithfulness sustains me.  Also, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "Hebrews 11:1, Psalm 23:1",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. His Word is my anchor and my song.",
+      "verse": "Ephesians 6:10, Joshua 1:9",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. His faithfulness sustains me.",
+      "verse": "Psalm 23:1, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. By His grace, I will not fear.",
+      "verse": "Isaiah 26:3, Philippians 4:6-7, Colossians 3:15",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I receive this by faith and walk in it.  Furthermore, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "Galatians 2:20, Philippians 4:19, Psalm 23:1",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. I welcome His presence and obey His leading.",
+      "verse": "Joshua 1:9, Ephesians 6:10",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I am covered by His steadfast love.  And, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Thessalonians 5:16-18, Jeremiah 29:11",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails.",
+      "verse": "Hebrews 11:1, Proverbs 3:5-6, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. His Word is my anchor and my song.  And, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "Ephesians 6:10, Psalm 56:3-4",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. My heart is steadfast in Him.",
+      "verse": "Psalm 27:1, Joshua 1:9, Ephesians 6:10",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I align my thoughts with His truth.  And, today i fix my mind on the lord and receive his perfect peace; anxiety has no place where his presence reigns.",
+      "verse": "1 Thessalonians 5:16-18, Colossians 3:15, Nehemiah 8:10",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. His faithfulness sustains me.  Also, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "James 1:5, Proverbs 3:5-6, Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. I align my thoughts with His truth.",
+      "verse": "Galatians 2:20, 1 Peter 2:9",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. His Word is my anchor and my song.  Also, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Thessalonians 5:16-18, James 1:5",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. His faithfulness sustains me.",
+      "verse": "Colossians 3:15, Isaiah 26:3",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. I welcome His presence and obey His leading.  And, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "Ephesians 6:10, Joshua 1:9, Psalm 27:1, Psalm 5:12",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. By His grace, I will not fear.  Furthermore, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Peter 2:9, 2 Corinthians 5:17, Galatians 2:20, Nehemiah 8:10",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. By His grace, I will not fear.  And, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "Acts 1:8, Psalm 91:1-2, Romans 8:28",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. His faithfulness sustains me.",
+      "verse": "Proverbs 3:5-6, Psalm 56:3-4, Hebrews 11:1",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I welcome His presence and obey His leading.  And, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "1 Corinthians 13:4-7, John 13:34-35, Proverbs 3:5-6",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. By His grace, I will not fear.  Furthermore, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "Matthew 5:14-16, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. My heart is steadfast in Him.",
+      "verse": "Philippians 4:19, Psalm 5:12",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails.  And, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "Jeremiah 29:11, Proverbs 3:5-6, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. I align my thoughts with His truth.  Furthermore, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "2 Corinthians 5:17, Psalm 23:1",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. I am covered by His steadfast love.  Also, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "James 1:5, Nehemiah 8:10, Proverbs 3:5-6, Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I am covered by His steadfast love.  Also, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "Colossians 3:12-14, Philippians 4:19",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. His faithfulness sustains me.  Also, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "John 13:34-35, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. My heart is steadfast in Him.  Furthermore, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Corinthians 13:4-7, Colossians 3:12-14, John 13:34-35, Nehemiah 8:10",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. His Word is my anchor and my song.  Furthermore, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "1 Peter 2:9, Acts 1:8",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. By His grace, I will not fear.  And, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "1 Corinthians 13:4-7, Philippians 4:6-7",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart.",
+      "verse": "Colossians 3:12-14, John 13:34-35",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I align my thoughts with His truth.  Furthermore, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "Colossians 3:12-14",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I am covered by His steadfast love.  Also, today i fix my mind on the lord and receive his perfect peace; anxiety has no place where his presence reigns.",
+      "verse": "Colossians 3:12-14, Colossians 3:15, John 13:34-35",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory.  Also, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Peter 2:9, 1 Thessalonians 5:16-18, 2 Corinthians 5:17, Galatians 2:20",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace.  Also, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "Ephesians 2:10, Psalm 23:1, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. His faithfulness sustains me.  And, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "Colossians 3:12-14, Matthew 5:14-16",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I align my thoughts with His truth.  Also, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "Acts 1:8, Ephesians 2:10, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. His faithfulness sustains me.  Furthermore, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "1 Corinthians 13:4-7, Hebrews 11:1, Proverbs 3:5-6",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I am covered by His steadfast love.  Also, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "James 1:5, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I align my thoughts with His truth.  And, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "1 Peter 2:9, 1 Thessalonians 5:16-18, Nehemiah 8:10, Psalm 118:24",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do.  Also, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "Galatians 2:20, James 1:5, Proverbs 3:5-6, Psalm 37:23",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I receive this by faith and walk in it.  Furthermore, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "Psalm 91:1-2, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. By His grace, I will not fear.  Furthermore, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "James 1:5, Proverbs 3:5-6, Psalm 37:23, Psalm 5:12",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. By His grace, I will not fear.  And, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "Philippians 4:19, Psalm 56:3-4",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. His faithfulness sustains me.  Furthermore, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "1 Peter 2:9, 2 Corinthians 5:17, Galatians 2:20, Psalm 5:12",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. By His grace, I will not fear.  Furthermore, today i rise in the strength of the lord, courageous and steadfast, knowing he goes before me and stands beside me.",
+      "verse": "Ephesians 6:10, Hebrews 11:1, Proverbs 3:5-6, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. I align my thoughts with His truth.",
+      "verse": "Acts 1:8, Matthew 5:14-16",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I welcome His presence and obey His leading.  Also, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "Colossians 3:12-14, Ephesians 2:10, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace.  And, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "2 Corinthians 5:17, Ephesians 2:10, Jeremiah 29:11",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. His faithfulness sustains me.  Furthermore, today i walk boldly in the purpose god prepared for me, trusting his plans and partnering with his grace.",
+      "verse": "Ephesians 2:10, Proverbs 3:5-6",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I put on love and compassion, seeing others through the eyes of Christ and serving with a willing heart. I align my thoughts with His truth.  Furthermore, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Thessalonians 5:16-18, John 13:34-35",
+      "emoji": "❤️"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. I receive this by faith and walk in it.  Furthermore, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "1 Peter 2:9, Colossians 3:15, Isaiah 26:3, Philippians 4:6-7",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. His Word is my anchor and my song.  Furthermore, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "Joshua 1:9, Psalm 37:23",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. My heart is steadfast in Him.  Also, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "Joshua 1:9, Psalm 23:1, Psalm 27:1",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I fix my mind on the Lord and receive His perfect peace; anxiety has no place where His presence reigns. His faithfulness sustains me.  And, today i receive the lord’s provision and favor, confident that he supplies all my needs and surrounds me with his love.",
+      "verse": "Colossians 3:15, Isaiah 26:3, Psalm 23:1",
+      "emoji": "🌿"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. By His grace, I will not fear.  Also, today i choose faith over fear and trust over worry, leaning on the lord who never fails.",
+      "verse": "1 Peter 2:9, 2 Corinthians 5:17, Hebrews 11:1",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. His Word is my anchor and my song.  Also, today i fix my mind on the lord and receive his perfect peace; anxiety has no place where his presence reigns.",
+      "verse": "Colossians 3:15, Matthew 5:14-16",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I seek the Lord’s wisdom and welcome His guidance, trusting Him to order my steps in all I do. I receive this by faith and walk in it.  Also, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "James 1:5, Proverbs 3:5-6, Psalm 118:24",
+      "emoji": "🧭"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. By His grace, I will not fear.  And, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Thessalonians 5:16-18, Acts 1:8, Matthew 5:14-16, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. His faithfulness sustains me.  Also, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Thessalonians 5:16-18, Jeremiah 29:11, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I dwell in God’s shelter and shine His light boldly, empowered by His Spirit to witness with grace. My heart is steadfast in Him.  And, today i dwell in god’s shelter and shine his light boldly, empowered by his spirit to witness with grace.",
+      "verse": "Acts 1:8, Matthew 5:14-16, Psalm 91:1-2",
+      "emoji": "🛡️"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. By His grace, I will not fear.  Also, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "1 Peter 2:9, 1 Thessalonians 5:16-18",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I walk boldly in the purpose God prepared for me, trusting His plans and partnering with His grace. I receive this by faith and walk in it.  And, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "Colossians 3:12-14, Ephesians 2:10, Jeremiah 29:11, Romans 8:28",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. I am covered by His steadfast love.  Furthermore, today i choose joy and thanksgiving, rejoicing in the day the lord has made and welcoming his goodness with gratitude.",
+      "verse": "1 Thessalonians 5:16-18, Nehemiah 8:10, Psalm 118:24",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. His faithfulness sustains me.  And, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "Hebrews 11:1, James 1:5, Proverbs 3:5-6, Psalm 56:3-4",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. His Word is my anchor and my song.",
+      "verse": "1 Thessalonians 5:16-18, Nehemiah 8:10",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. By His grace, I will not fear.  Also, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "1 Corinthians 13:4-7, Psalm 23:1",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Today I stand secure in my identity in Christ—chosen, redeemed, and made new for His purpose and glory. I receive this by faith and walk in it.  Furthermore, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "1 Peter 2:9, Colossians 3:12-14",
+      "emoji": "👑"
+    },
+    {
+      "text": "Today I rise in the strength of the Lord, courageous and steadfast, knowing He goes before me and stands beside me. My heart is steadfast in Him.  Also, today i put on love and compassion, seeing others through the eyes of christ and serving with a willing heart.",
+      "verse": "Ephesians 6:10, John 13:34-35, Joshua 1:9",
+      "emoji": "💪"
+    },
+    {
+      "text": "Today I choose faith over fear and trust over worry, leaning on the Lord who never fails. My heart is steadfast in Him.  And, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "Galatians 2:20, Hebrews 11:1",
+      "emoji": "✨"
+    },
+    {
+      "text": "Today I choose joy and thanksgiving, rejoicing in the day the Lord has made and welcoming His goodness with gratitude. By His grace, I will not fear.  Furthermore, today i seek the lord’s wisdom and welcome his guidance, trusting him to order my steps in all i do.",
+      "verse": "Nehemiah 8:10, Psalm 37:23",
+      "emoji": "🌞"
+    },
+    {
+      "text": "Today I receive the Lord’s provision and favor, confident that He supplies all my needs and surrounds me with His love. I align my thoughts with His truth.  Furthermore, today i stand secure in my identity in christ—chosen, redeemed, and made new for his purpose and glory.",
+      "verse": "Galatians 2:20, Philippians 4:19, Psalm 23:1, Psalm 5:12",
+      "emoji": "🕊️"
+    }
   ],
   "night": [
-    { "text": "I lie down in peace; You alone make me dwell in safety.", "verse": "Psalm 4:8", "emoji": "🌙" },
-    { "text": "Your mercies will meet me in the morning.", "verse": "Lamentations 3:22-23", "emoji": "🕊️" },
-    { "text": "You give rest to Your beloved.", "verse": "Psalm 127:2", "emoji": "😴" }
-    /* add hundreds more … */
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. His Word is my anchor and my song.",
+      "verse": "Isaiah 26:3",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. His Word is my anchor and my song.  Also, tonight i welcome the peace of christ to guard my heart and mind, and i am kept in perfect peace by him.",
+      "verse": "Philippians 4:7, Psalm 34:18",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. I am covered by His steadfast love.",
+      "verse": "Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. By His grace, I will not fear.  Also, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "1 John 1:9, Ephesians 4:32, Psalm 51:10, Psalm 55:22",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I align my thoughts with His truth.  Also, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. His Word is my anchor and my song.  Also, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Ephesians 3:16, Psalm 23:3, Psalm 30:5",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. My heart is steadfast in Him.",
+      "verse": "Psalm 34:7",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. I am covered by His steadfast love.",
+      "verse": "John 14:27",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good.  Also, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Proverbs 3:5-6, Psalm 30:5, Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. I receive this by faith and walk in it.",
+      "verse": "Hebrews 1:14, Psalm 91:11-12, Psalm 34:7",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. I align my thoughts with His truth.",
+      "verse": "Ephesians 4:32, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. His faithfulness sustains me.  Also, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "2 Corinthians 1:3-4, Isaiah 40:31, Psalm 23:4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. I welcome His presence and obey His leading.",
+      "verse": "1 Thessalonians 5:16-18",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. By His grace, I will not fear.  Furthermore, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Hebrews 1:14, Isaiah 40:31",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. I receive this by faith and walk in it.",
+      "verse": "Psalm 121:3-4",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. I align my thoughts with His truth.",
+      "verse": "Philippians 4:7",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. I am covered by His steadfast love.",
+      "verse": "1 John 1:9, Psalm 51:10, Ephesians 4:32",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good.  And, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Proverbs 3:5-6, Psalm 46:10, Psalm 91:11-12, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me.  Also, tonight i welcome the peace of christ to guard my heart and mind, and i am kept in perfect peace by him.",
+      "verse": "1 John 1:9, Ephesians 4:32, John 14:27, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. I receive this by faith and walk in it.",
+      "verse": "Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. His faithfulness sustains me.",
+      "verse": "Psalm 51:10, 1 John 1:9",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. I welcome His presence and obey His leading.",
+      "verse": "Psalm 30:5, Romans 15:13, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. I receive this by faith and walk in it.",
+      "verse": "Isaiah 40:31, Ephesians 3:16",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness.",
+      "verse": "Psalm 103:1-5",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. His faithfulness sustains me.",
+      "verse": "Ephesians 3:16, Isaiah 40:31",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. By His grace, I will not fear.",
+      "verse": "Ephesians 3:16",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. By His grace, I will not fear.",
+      "verse": "Ephesians 4:32",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. I am covered by His steadfast love.  Furthermore, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "1 John 1:9, Matthew 11:28-30, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. His Word is my anchor and my song.",
+      "verse": "1 Peter 5:7, Psalm 55:22, Matthew 11:28-30",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. His faithfulness sustains me.",
+      "verse": "Psalm 55:22, 1 Peter 5:7",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. My heart is steadfast in Him.",
+      "verse": "Psalm 4:8, Psalm 3:5",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. His Word is my anchor and my song.",
+      "verse": "Psalm 23:4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there.  Also, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Lamentations 3:22-23, Psalm 30:5, Psalm 34:7, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. My heart is steadfast in Him.  Furthermore, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "2 Corinthians 1:3-4, Psalm 121:3-4, Psalm 23:4, Psalm 34:18",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. I align my thoughts with His truth.  Furthermore, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "2 Corinthians 1:3-4, Psalm 34:18, Psalm 55:22",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow.  Also, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "1 Thessalonians 5:16-18, Ephesians 3:16, Isaiah 40:31",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. His Word is my anchor and my song.  Furthermore, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "1 John 1:9, Proverbs 3:5-6, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. His faithfulness sustains me.",
+      "verse": "Hebrews 1:14, Psalm 91:11-12",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. I align my thoughts with His truth.",
+      "verse": "Psalm 55:22",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. My heart is steadfast in Him.  And, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "2 Corinthians 1:3-4, Psalm 121:3-4, Psalm 23:4, Psalm 34:18",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. By His grace, I will not fear.",
+      "verse": "Isaiah 26:3",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. His faithfulness sustains me.",
+      "verse": "Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. By His grace, I will not fear.",
+      "verse": "Psalm 116:7, Psalm 103:1-5",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there.",
+      "verse": "Psalm 30:5, Romans 15:13, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. I receive this by faith and walk in it.  And, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Ephesians 3:16, Isaiah 40:31, Psalm 23:3",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. By His grace, I will not fear.",
+      "verse": "Psalm 55:22",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. I receive this by faith and walk in it.",
+      "verse": "Psalm 23:4, 2 Corinthians 1:3-4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. My heart is steadfast in Him.",
+      "verse": "Psalm 23:3, Isaiah 40:31, Ephesians 3:16",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. My heart is steadfast in Him.",
+      "verse": "1 John 1:9, Ephesians 4:32, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. My heart is steadfast in Him.",
+      "verse": "1 Peter 5:7",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. By His grace, I will not fear.  Furthermore, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Hebrews 1:14, Proverbs 3:5-6, Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. By His grace, I will not fear.",
+      "verse": "Proverbs 3:5-6, Romans 8:28, Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. His faithfulness sustains me.  Also, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "2 Corinthians 1:3-4, Psalm 34:18, Psalm 91:11-12",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I am covered by His steadfast love.",
+      "verse": "Proverbs 3:5-6, Romans 8:28, Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. I welcome His presence and obey His leading.",
+      "verse": "Isaiah 40:31, Psalm 23:3",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. My heart is steadfast in Him.  Also, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "John 14:27, Philippians 4:7, Psalm 121:3-4",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. I am covered by His steadfast love.",
+      "verse": "Hebrews 1:14",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. His Word is my anchor and my song.",
+      "verse": "1 Thessalonians 5:16-18, Psalm 103:1-5, Psalm 116:7",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. My heart is steadfast in Him.",
+      "verse": "Philippians 4:7, John 14:27, Isaiah 26:3",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. By His grace, I will not fear.  And, tonight i receive cleansing and renewal; the lord creates in me a clean heart and renews a right spirit within me.",
+      "verse": "Ephesians 4:32, Proverbs 3:5-6, Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. His Word is my anchor and my song.  And, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "1 Thessalonians 5:16-18, Ephesians 3:16, Isaiah 40:31, Psalm 23:3",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. I am covered by His steadfast love.  Also, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "1 Thessalonians 5:16-18, Hebrews 1:14, Psalm 116:7",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. His Word is my anchor and my song.",
+      "verse": "Psalm 30:5, Lamentations 3:22-23, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. I am covered by His steadfast love.",
+      "verse": "Psalm 23:3",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I welcome His presence and obey His leading.  Furthermore, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "1 Peter 5:7, Proverbs 3:5-6, Psalm 46:10, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. By His grace, I will not fear.  And, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "1 Thessalonians 5:16-18, Psalm 103:1-5, Psalm 116:7, Psalm 34:7",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. My heart is steadfast in Him.",
+      "verse": "Psalm 30:5, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him.",
+      "verse": "John 14:27, Philippians 4:7",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. I receive this by faith and walk in it.",
+      "verse": "Psalm 55:22",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there.  And, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Psalm 30:5, Psalm 34:7, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest.",
+      "verse": "Psalm 121:3-4, Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. I align my thoughts with His truth.",
+      "verse": "Hebrews 1:14",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. His faithfulness sustains me.  Furthermore, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "Matthew 11:28-30, Psalm 3:5, Psalm 55:22",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. His faithfulness sustains me.",
+      "verse": "Psalm 46:10, Proverbs 3:5-6, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I receive this by faith and walk in it.  And, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Psalm 46:10, Psalm 91:11-12, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. I welcome His presence and obey His leading.",
+      "verse": "Psalm 121:3-4, Psalm 3:5",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. By His grace, I will not fear.",
+      "verse": "Psalm 121:3-4",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. I align my thoughts with His truth.  And, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "Psalm 121:3-4, Psalm 3:5, Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. I am covered by His steadfast love.",
+      "verse": "Psalm 55:22, 1 Peter 5:7, Matthew 11:28-30",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I receive this by faith and walk in it.",
+      "verse": "Proverbs 3:5-6, Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. His Word is my anchor and my song.  And, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "1 Thessalonians 5:16-18, Proverbs 3:5-6",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there.  And, tonight i welcome the peace of christ to guard my heart and mind, and i am kept in perfect peace by him.",
+      "verse": "Isaiah 26:3, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. His Word is my anchor and my song.",
+      "verse": "Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. I welcome His presence and obey His leading.",
+      "verse": "1 John 1:9, Ephesians 4:32",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. His Word is my anchor and my song.",
+      "verse": "Isaiah 40:31, Psalm 23:3",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. I welcome His presence and obey His leading.",
+      "verse": "Psalm 34:18, 2 Corinthians 1:3-4, Psalm 23:4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. His Word is my anchor and my song.  Also, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "1 John 1:9, Ephesians 4:32, Psalm 34:7, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me.",
+      "verse": "Psalm 51:10, Ephesians 4:32, 1 John 1:9",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I receive this by faith and walk in it.  Also, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Isaiah 40:31, Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. By His grace, I will not fear.  Also, tonight i welcome the peace of christ to guard my heart and mind, and i am kept in perfect peace by him.",
+      "verse": "John 14:27, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. His faithfulness sustains me.",
+      "verse": "Psalm 3:5",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. My heart is steadfast in Him.  Also, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "Psalm 103:1-5, Psalm 23:4",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I welcome His presence and obey His leading.",
+      "verse": "Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me.",
+      "verse": "Psalm 34:18, Psalm 23:4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. I welcome His presence and obey His leading.  Also, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "Psalm 116:7, Psalm 30:5, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I align my thoughts with His truth.",
+      "verse": "Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. My heart is steadfast in Him.",
+      "verse": "2 Corinthians 1:3-4, Psalm 34:18, Psalm 23:4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. I welcome His presence and obey His leading.  Furthermore, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "1 Peter 5:7, Psalm 3:5",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. My heart is steadfast in Him.  And, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "2 Corinthians 1:3-4, Psalm 34:18, Romans 8:28",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. I welcome His presence and obey His leading.  And, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "1 John 1:9, Ephesians 4:32, Psalm 23:4, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. His Word is my anchor and my song.  And, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "2 Corinthians 1:3-4, Isaiah 40:31, Psalm 23:4, Psalm 34:18",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. I align my thoughts with His truth.",
+      "verse": "Psalm 116:7",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. By His grace, I will not fear.  And, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "Hebrews 1:14, Psalm 34:18, Psalm 91:11-12",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest.  And, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "Psalm 103:1-5, Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. I receive this by faith and walk in it.",
+      "verse": "Psalm 30:5, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. By His grace, I will not fear.",
+      "verse": "2 Corinthians 1:3-4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. I welcome His presence and obey His leading.  Also, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "Ephesians 4:32, Psalm 121:3-4",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. My heart is steadfast in Him.  Also, tonight i receive cleansing and renewal; the lord creates in me a clean heart and renews a right spirit within me.",
+      "verse": "Ephesians 3:16, Isaiah 40:31, Psalm 51:10",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. His faithfulness sustains me.  Also, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "Psalm 103:1-5, Psalm 34:18",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. I welcome His presence and obey His leading.  Furthermore, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "1 Peter 5:7, Isaiah 26:3, John 14:27, Philippians 4:7",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. I align my thoughts with His truth.  Also, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Hebrews 1:14, Psalm 34:7, Psalm 91:11-12",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. I align my thoughts with His truth.",
+      "verse": "Isaiah 40:31",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. I align my thoughts with His truth.  And, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Hebrews 1:14, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. I align my thoughts with His truth.",
+      "verse": "Psalm 30:5, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. His faithfulness sustains me.",
+      "verse": "John 14:27, Philippians 4:7, Isaiah 26:3",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. By His grace, I will not fear.",
+      "verse": "Hebrews 1:14, Psalm 91:11-12",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. I receive this by faith and walk in it.  And, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "2 Corinthians 1:3-4, Psalm 23:3, Psalm 23:4, Psalm 34:18",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. I receive this by faith and walk in it.",
+      "verse": "John 14:27, Philippians 4:7",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. His Word is my anchor and my song.  And, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Ephesians 3:16, Psalm 121:3-4, Psalm 3:5, Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him.  Also, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "Isaiah 26:3, John 14:27, Philippians 4:7, Romans 8:28",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. I am covered by His steadfast love.",
+      "verse": "Psalm 103:1-5, Psalm 116:7",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me.  Also, tonight i receive cleansing and renewal; the lord creates in me a clean heart and renews a right spirit within me.",
+      "verse": "Ephesians 4:32, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. His Word is my anchor and my song.",
+      "verse": "Psalm 34:7, Hebrews 1:14, Psalm 91:11-12",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. My heart is steadfast in Him.  Also, tonight i welcome the peace of christ to guard my heart and mind, and i am kept in perfect peace by him.",
+      "verse": "Hebrews 1:14, Isaiah 26:3",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there.  Also, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Isaiah 40:31, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. By His grace, I will not fear.  Furthermore, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Lamentations 3:22-23, Psalm 23:3, Psalm 30:5, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. I receive this by faith and walk in it.  Also, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "Ephesians 3:16, Isaiah 40:31, Psalm 121:3-4, Psalm 23:3",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. His faithfulness sustains me.",
+      "verse": "Psalm 23:4, Psalm 34:18, 2 Corinthians 1:3-4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. I welcome His presence and obey His leading.",
+      "verse": "Psalm 34:7",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care.",
+      "verse": "Hebrews 1:14",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. I receive this by faith and walk in it.",
+      "verse": "Psalm 116:7, 1 Thessalonians 5:16-18",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. By His grace, I will not fear.  Furthermore, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "1 Peter 5:7, Matthew 11:28-30, Psalm 55:22, Romans 15:13",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. His Word is my anchor and my song.",
+      "verse": "Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. My heart is steadfast in Him.  And, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "1 Peter 5:7, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. I welcome His presence and obey His leading.  Also, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "Lamentations 3:22-23, Psalm 55:22, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. My heart is steadfast in Him.  Furthermore, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "1 Thessalonians 5:16-18, Psalm 103:1-5, Psalm 116:7, Psalm 34:7",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. My heart is steadfast in Him.  Furthermore, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Ephesians 4:32, Hebrews 1:14",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. My heart is steadfast in Him.  Also, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "1 Thessalonians 5:16-18, Lamentations 3:22-23, Psalm 30:5, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. His Word is my anchor and my song.  And, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "2 Corinthians 1:3-4, Psalm 3:5",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest.  Furthermore, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "Psalm 116:7, Psalm 121:3-4, Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. I receive this by faith and walk in it.  Also, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "2 Corinthians 1:3-4, Ephesians 3:16, Psalm 23:4, Psalm 34:18",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. His faithfulness sustains me.",
+      "verse": "Psalm 116:7, Psalm 103:1-5",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. By His grace, I will not fear.  Also, tonight i receive cleansing and renewal; the lord creates in me a clean heart and renews a right spirit within me.",
+      "verse": "Ephesians 4:32, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. His faithfulness sustains me.  Also, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "1 John 1:9, Ephesians 4:32, Psalm 121:3-4, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. I welcome His presence and obey His leading.  And, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Lamentations 3:22-23, Matthew 11:28-30",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. His faithfulness sustains me.  Furthermore, tonight i receive cleansing and renewal; the lord creates in me a clean heart and renews a right spirit within me.",
+      "verse": "John 14:27, Psalm 51:10",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I welcome His presence and obey His leading.  Furthermore, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Ephesians 3:16, Proverbs 3:5-6, Psalm 46:10, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness.  Furthermore, tonight i welcome the peace of christ to guard my heart and mind, and i am kept in perfect peace by him.",
+      "verse": "1 Thessalonians 5:16-18, Isaiah 26:3",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. My heart is steadfast in Him.  Furthermore, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Proverbs 3:5-6, Psalm 46:10, Romans 15:13, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. I align my thoughts with His truth.  Furthermore, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "Hebrews 1:14, Psalm 23:4",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. His faithfulness sustains me.  And, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "Lamentations 3:22-23, Matthew 11:28-30",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him.  Furthermore, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "John 14:27, Matthew 11:28-30",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. By His grace, I will not fear.  Also, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "Isaiah 26:3, John 14:27, Philippians 4:7, Proverbs 3:5-6",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. His Word is my anchor and my song.  Furthermore, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "Psalm 103:1-5, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. I align my thoughts with His truth.  And, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "Hebrews 1:14, Psalm 121:3-4, Psalm 34:7",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. By His grace, I will not fear.  Furthermore, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Hebrews 1:14, Lamentations 3:22-23, Psalm 91:11-12",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow.",
+      "verse": "Ephesians 3:16, Isaiah 40:31",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. His Word is my anchor and my song.  And, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "Isaiah 26:3, John 14:27, Philippians 4:7, Psalm 23:4",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. His Word is my anchor and my song.  Furthermore, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "2 Corinthians 1:3-4, Proverbs 3:5-6, Psalm 46:10",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest.  Also, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "Psalm 4:8, Romans 8:28",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. I welcome His presence and obey His leading.  And, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "1 Peter 5:7, Psalm 34:7, Psalm 55:22",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. I receive this by faith and walk in it.  Furthermore, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "1 Thessalonians 5:16-18, Psalm 116:7, Psalm 121:3-4",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. My heart is steadfast in Him.  Furthermore, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Ephesians 3:16, Isaiah 40:31",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul.",
+      "verse": "Psalm 55:22",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. I welcome His presence and obey His leading.  And, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "Psalm 30:5, Psalm 34:18",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. I am covered by His steadfast love.",
+      "verse": "Romans 15:13, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. I align my thoughts with His truth.  And, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Isaiah 40:31, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. I welcome His presence and obey His leading.  And, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Isaiah 26:3, Romans 15:13",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. By His grace, I will not fear.",
+      "verse": "Romans 15:13, Lamentations 3:22-23",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. His faithfulness sustains me.  And, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Hebrews 1:14, Psalm 23:4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness.  And, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "1 Thessalonians 5:16-18, Psalm 116:7",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. His faithfulness sustains me.  And, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "1 Peter 5:7, Matthew 11:28-30, Psalm 46:10",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good.",
+      "verse": "Psalm 46:10, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. I align my thoughts with His truth.",
+      "verse": "Psalm 3:5, Psalm 4:8, Psalm 121:3-4",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. His Word is my anchor and my song.",
+      "verse": "Psalm 51:10, Ephesians 4:32",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. By His grace, I will not fear.  And, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "Psalm 103:1-5, Psalm 121:3-4",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. His Word is my anchor and my song.  Furthermore, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Ephesians 3:16, Ephesians 4:32",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. His Word is my anchor and my song.  Also, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "Psalm 121:3-4, Psalm 34:18, Psalm 3:5, Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. By His grace, I will not fear.  And, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "1 Peter 5:7, Matthew 11:28-30, Proverbs 3:5-6",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. His faithfulness sustains me.  Also, tonight i welcome the peace of christ to guard my heart and mind, and i am kept in perfect peace by him.",
+      "verse": "John 14:27, Psalm 3:5",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. I am covered by His steadfast love.  Also, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "1 Thessalonians 5:16-18, Philippians 4:7",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. His Word is my anchor and my song.  And, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Psalm 23:3, Psalm 46:10, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good.  Furthermore, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "2 Corinthians 1:3-4, Proverbs 3:5-6, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. His faithfulness sustains me.  Also, tonight i receive cleansing and renewal; the lord creates in me a clean heart and renews a right spirit within me.",
+      "verse": "1 John 1:9, Psalm 34:18",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. By His grace, I will not fear.  Also, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Lamentations 3:22-23, Psalm 121:3-4, Psalm 3:5, Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I rest with hopeful expectation, knowing His mercies will be new in the morning and His joy will meet me there. His faithfulness sustains me.  Furthermore, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "Lamentations 3:22-23, Psalm 116:7, Psalm 30:5, Romans 15:13",
+      "emoji": "🌅"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. By His grace, I will not fear.  And, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "1 Peter 5:7, Hebrews 1:14, Psalm 34:7, Psalm 91:11-12",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. My heart is steadfast in Him.",
+      "verse": "1 Thessalonians 5:16-18",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. His Word is my anchor and my song.  And, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "Proverbs 3:5-6, Psalm 46:10, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. I receive this by faith and walk in it.  Furthermore, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "1 John 1:9, Ephesians 4:32, Psalm 55:22",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. My heart is steadfast in Him.  Also, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "1 John 1:9, Ephesians 4:32, Psalm 103:1-5",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. I am covered by His steadfast love.  And, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "1 John 1:9, 1 Thessalonians 5:16-18, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest.  Also, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Psalm 3:5, Romans 15:13",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. His faithfulness sustains me.  Also, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "Hebrews 1:14, Proverbs 3:5-6, Psalm 34:7, Psalm 91:11-12",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me.  Furthermore, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "Ephesians 4:32, Matthew 11:28-30, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. I receive this by faith and walk in it.  And, tonight god commands his angels concerning me; i am surrounded and kept safe by his faithful care.",
+      "verse": "Hebrews 1:14, Psalm 34:7, Psalm 91:11-12",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. His Word is my anchor and my song.  Also, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Psalm 46:10, Romans 15:13, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. I am covered by His steadfast love.  Furthermore, tonight i receive cleansing and renewal; the lord creates in me a clean heart and renews a right spirit within me.",
+      "verse": "1 Thessalonians 5:16-18, Ephesians 4:32, Psalm 116:7",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me.  Furthermore, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Ephesians 3:16, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. I welcome His presence and obey His leading.",
+      "verse": "Philippians 4:7, John 14:27",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I receive cleansing and renewal; the Lord creates in me a clean heart and renews a right spirit within me. His faithfulness sustains me.  And, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "1 John 1:9, 1 Peter 5:7, Psalm 51:10",
+      "emoji": "🧼"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. By His grace, I will not fear.  Furthermore, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Isaiah 26:3, John 14:27, Philippians 4:7, Romans 15:13",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I feel the Lord near to the brokenhearted; His rod and staff comfort me and His compassion holds me. I am covered by His steadfast love.  Also, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "2 Corinthians 1:3-4, Ephesians 3:16, Psalm 23:4",
+      "emoji": "💜"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. I welcome His presence and obey His leading.",
+      "verse": "Matthew 11:28-30, 1 Peter 5:7, Psalm 55:22",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I quiet my soul in gratitude, remembering the Lord’s benefits and resting in His goodness. His Word is my anchor and my song.  Also, tonight i feel the lord near to the brokenhearted; his rod and staff comfort me and his compassion holds me.",
+      "verse": "1 Thessalonians 5:16-18, Psalm 103:1-5, Psalm 116:7, Psalm 23:4",
+      "emoji": "🕯️"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. I receive this by faith and walk in it.  And, tonight i am still and trust god’s sovereign hand, believing he is working all things together for my good.",
+      "verse": "Isaiah 26:3, John 14:27, Philippians 4:7, Psalm 46:10",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I welcome the peace of Christ to guard my heart and mind, and I am kept in perfect peace by Him. I align my thoughts with His truth.  Also, tonight i quiet my soul in gratitude, remembering the lord’s benefits and resting in his goodness.",
+      "verse": "John 14:27, Psalm 103:1-5",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. I receive this by faith and walk in it.  And, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "Matthew 11:28-30, Psalm 121:3-4, Psalm 3:5, Psalm 4:8",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight I lay down in peace and safety, trusting the Lord who watches over me and grants me true rest. By His grace, I will not fear.  And, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Isaiah 40:31, Psalm 121:3-4",
+      "emoji": "😴"
+    },
+    {
+      "text": "Tonight God commands His angels concerning me; I am surrounded and kept safe by His faithful care. By His grace, I will not fear.  Also, tonight i rest with hopeful expectation, knowing his mercies will be new in the morning and his joy will meet me there.",
+      "verse": "Hebrews 1:14, Psalm 34:7, Psalm 91:11-12, Romans 15:13",
+      "emoji": "👼"
+    },
+    {
+      "text": "Tonight I release every worry into Jesus’ hands and surrender my burdens, receiving His gentle rest for my soul. By His grace, I will not fear.  And, tonight i release every worry into jesus’ hands and surrender my burdens, receiving his gentle rest for my soul.",
+      "verse": "Matthew 11:28-30, Psalm 55:22",
+      "emoji": "🤲"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I am covered by His steadfast love.  Also, tonight i am renewed in the inner man by the spirit; the lord restores my soul and prepares me for tomorrow.",
+      "verse": "Proverbs 3:5-6, Psalm 23:3, Psalm 46:10, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I am still and trust God’s sovereign hand, believing He is working all things together for my good. I align my thoughts with His truth.  Furthermore, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "Psalm 4:8, Romans 8:28",
+      "emoji": "🕊️"
+    },
+    {
+      "text": "Tonight I am renewed in the inner man by the Spirit; the Lord restores my soul and prepares me for tomorrow. His faithfulness sustains me.  Furthermore, tonight i lay down in peace and safety, trusting the lord who watches over me and grants me true rest.",
+      "verse": "Isaiah 40:31, Psalm 4:8",
+      "emoji": "🌌"
+    }
   ]
 }
